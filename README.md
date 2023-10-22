@@ -1,5 +1,13 @@
-### Hi there 👋
+### bchubb-web
 
+ A developer who aims to make his and others lives easier, many of my projects and gists are tools i use to automate or aid with boring tasks
+
+I'm currently working on a PHP framework with similarities to NextJS 13 called [phntm (phantom)](https://github.com/bchubb-web/phntm), implementing features such as file system based routing and dynamic routes.
+
+Looking to move to lower level development and are currently learning c++ (god help me) and trying to better understand memory management.
+
+
+I use vim btw.
 <!--
 **bchubb-web/bchubb-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
