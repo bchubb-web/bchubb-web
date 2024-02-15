@@ -1,14 +1,16 @@
-### bchubb-web
+<h1 align="center">Billy Chubb - bChubb-Web</h1>
 
- A developer who aims to make his and others lives easier, many of my projects are tools i use to automate or aid with tasks i find boring or slow me down.
+## ✨ About Me
+ As a developer, i aim to make people's lives easier, i develop a variety of tools i use in my daily workflow, and i have worked within company intranets creating tools to automate and streamline their management and tasks
 
 ## PHP
-I'm currently working on a PHP framework similar to NextJS 13 called [phntm](https://github.com/bchubb-web/phntm), with features like file system based routing and dynamic and type-safe routes. 
-I am also building an extensible OAuth token manager - [Toucan](https://github.com/bchubb-web/toucan) as a composer package, for easy integration for long lived sessions without manually refreshing or reauthentication. 
+I am currently learning Laravel, and working on a few projects, a storage management system called Kibisis which will be available at some point in the future, and a lightweight intranet platform intended for easy setup with an easy to use interface and a variety of tooling build into it.
+I am also building an extensible OAuth token manager - [Toucan](https://github.com/bchubb-web/toucan), for easy integration for long lived sessions without manually refreshing or reauthentication. 
 
 ## C++
-I have a couple of projects in C++, which i am trying to become more adept at, as i want to gain a deeper understanding of programming, for this i am building a terminal based [text editor](https://github.com/bchubb-web/scripture) like vim, aswell as a few command line tools.
+I have a couple of projects in C++, which i am trying to become more adept at, as i want to gain a deeper understanding of programming, for this i am building a terminal based [text editor](https://github.com/bchubb-web/scripture) like vim, as well as a few command line tools.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bchubb/)
 
 I use vim btw.
 <!--
