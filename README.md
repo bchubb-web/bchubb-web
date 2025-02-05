@@ -1,4 +1,4 @@
-<h1 align="center">Billy Chubb - bChubb-Web</h1>
+<h1 align="center">bchubb development</h1>
 
 ## ✨ About Me
  As a developer, i aim to make people's lives easier, i develop a variety of tools i use in my daily workflow, and i have worked within company intranets creating tools to automate and streamline their management and tasks
